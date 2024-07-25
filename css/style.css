@@ -742,7 +742,7 @@
 }
 
 .testimonial .owl-carousel.testimonial-carousel .testimonial-item .testimonial-content::after {
-    position: absolute;
+    /* position: absolute;
     content: "";
     width: 45px;
     height: 45px;
@@ -750,7 +750,7 @@
     left: 30px;
     transform: rotate(45deg);
     background: var(--bs-light);
-    z-index: -1;
+    z-index: -1; */
 }
 
 .testimonial .owl-carousel.testimonial-carousel .owl-nav {
